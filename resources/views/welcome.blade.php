@@ -20,6 +20,10 @@
     <p>
         {{ __('not localized') }}
     </p>
+
+    <p>
+        This should appear as well
+    </p>
 </body>
 
 </html>
