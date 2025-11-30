@@ -22,7 +22,7 @@
     </p>
 
     <p>
-        This should appear as well
+        {{ __('This should appear as well') }}
     </p>
 </body>
 
