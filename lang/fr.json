@@ -1,7 +1,7 @@
 {
     "Document": "Document",
-    "Hello World": "Hello World",
-    "Hello world again": "Hello world again",
-    "This should appear as well": "",
-    "not localized": "not localized"
+    "Hello World": "Salut tout le monde",
+    "Hello world again": "Bonjour à nouveau le monde",
+    "This should appear as well": "Cela devrait aussi apparaître",
+    "not localized": "non localisé"
 }
